@@ -41,7 +41,7 @@
 		header {
 			width: 100%;
 			height: 300px;
-			background: url(/14/images/qr-code-scan.svg.svg) center no-repeat;
+			background: url(qr-code-scan.svg.svg) center no-repeat;
 			background-size: cover;
 			margin: 0;
 		}
